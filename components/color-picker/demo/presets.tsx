@@ -5,7 +5,7 @@ export default () => (
   <ColorPicker
     presets={[
       {
-        label: 'Recommended',
+        label: 'Recommendedd',
         colors: [
           '#000000',
           '#000000E0',
